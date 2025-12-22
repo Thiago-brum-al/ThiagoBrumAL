@@ -1,4 +1,4 @@
-## Hello world! My name is Thiago de Almeida Brum 👋
+## Hello world, welcome to my Github! My name is Thiago de Almeida Brum 👋
 
 
 ## 🌐 Socials:
