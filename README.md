@@ -19,11 +19,5 @@ More than just writing code, I'm fascinated by the foundation that underpins sof
 
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/6a843343-2a6e-41a3-b930-095bae057e20" 
-    autoplay 
-    loop 
-    muted 
-    playsinline 
-    style="width: 100%; max-width: 800px; border-radius: 10px;">
-  </video>
+  <img src="https://res.cloudinary.com/essencialdev-cloudinary/image/upload/v1778547472/ippo_wz2cee.gif" width="100%" alt="Hajime no Ippo">
 </div>
