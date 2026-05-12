@@ -12,6 +12,8 @@ More than just writing code, I'm fascinated by the foundation that underpins sof
 
 <hr/>
 
+## Current Stack 🚀 | Stack Atual 🚀
+
 <div align="center">
   <table border="0">
     <tr>
