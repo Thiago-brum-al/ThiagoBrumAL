@@ -17,7 +17,7 @@ More than just writing code, I'm fascinated by the foundation that underpins sof
 
 
 <div align="center">
-  <div style="display: inline-block; vertical-align: middle; margin: 10px;">
+  <div style="display: inline-block; vertical-align: middle; margin: 30px;">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwindcss,react,redux,vite,next,git,postman,scss" alt="My Skills" />
   </div>
 
