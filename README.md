@@ -15,8 +15,9 @@ More than just writing code, I'm fascinated by the foundation that underpins sof
 <div align="center">
 
   ## Current Stack 🚀 | Stack Atual 🚀
-  <br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwindcss,react,redux,vite,next,git,postman,scss" alt="My Skills" />
+
+  <div align="center" style="margin: 30px 0px"><img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwindcss,react,redux,vite,next,git,postman,scss" alt="My Skills" /><div/>
+  
   <img src="https://res.cloudinary.com/essencialdev-cloudinary/image/upload/v1778547472/ippo_wz2cee.gif" width="400px" alt="Hajime no Ippo">
   
 </div>
