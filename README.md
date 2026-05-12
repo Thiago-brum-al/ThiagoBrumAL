@@ -13,11 +13,14 @@ More than just writing code, I'm fascinated by the foundation that underpins sof
 <hr/>
 
 <div align="center">
-
-  ## Current Stack 🚀 | Stack Atual 🚀
-
-  <div align="center" style="margin: 30px 0px"><img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwindcss,react,redux,vite,next,git,postman,scss" alt="My Skills" /><div/>
-  
-  <img src="https://res.cloudinary.com/essencialdev-cloudinary/image/upload/v1778547472/ippo_wz2cee.gif" width="400px" alt="Hajime no Ippo">
-  
+  <table border="0">
+    <tr>
+      <td align="center" valign="center">
+        <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwindcss,react,redux,vite,next,git,postman,scss" alt="My Skills" />
+      </td>
+      <td align="center" valign="center">
+        <img src="https://res.cloudinary.com/essencialdev-cloudinary/image/upload/v1778547472/ippo_wz2cee.gif" width="300px" alt="Hajime no Ippo">
+      </td>
+    </tr>
+  </table>
 </div>
