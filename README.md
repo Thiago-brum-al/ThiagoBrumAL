@@ -12,10 +12,8 @@ More than just writing code, I'm fascinated by the foundation that underpins sof
 
 <hr/>
 
-<div align="center">
-  <h1>Current Stack 🚀 | Stack Atual 🚀<h1/>
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwindcss,react,redux,vite,next,git,postman,scss)](https://skillicons.dev)
-</div>
+## Current Stack 🚀 | Stack Atual 🚀
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwindcss,react,redux,vite,next,git,postman,scss)](https://skillicons.dev)
 
 <hr/>
 
