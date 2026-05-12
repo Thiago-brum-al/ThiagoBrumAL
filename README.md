@@ -16,6 +16,6 @@ More than just writing code, I'm fascinated by the foundation that underpins sof
 
 [![My Skills](https://skillicons.dev/icons?i=css,tailwindcss,react)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=redux,vite,next,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux,vite,next)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,postman,scss)](https://skillicons.dev)
