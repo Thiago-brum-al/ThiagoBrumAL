@@ -16,7 +16,9 @@ More than just writing code, I'm fascinated by the foundation that underpins sof
   <table border="0">
     <tr>
       <td align="center" valign="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwindcss,react,redux,vite,next,git,postman,scss" alt="My Skills" />
+        <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="My Skills" />
+        <img src="https://skillicons.dev/icons?i=tailwindcss,react,redux,vite" alt="My Skills" />
+        <img src="https://skillicons.dev/icons?i=next,git,postman,scss" alt="My Skills" />
       </td>
       <td align="center" valign="center">
         <img src="https://res.cloudinary.com/essencialdev-cloudinary/image/upload/v1778547472/ippo_wz2cee.gif" width="300px" alt="Hajime no Ippo">
