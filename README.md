@@ -23,6 +23,12 @@ More than just writing code, I'm fascinated by the foundation that underpins sof
 <hr/>
 
 
-<div align="center">
+<div align="center" style="display: flex;">
+  <div>
+
+  ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwindcss,react,redux,vite,next,git,postman,scss)
+  
+  <div/>
+  
   <img src="https://res.cloudinary.com/essencialdev-cloudinary/image/upload/v1778547472/ippo_wz2cee.gif" width="100%" alt="Hajime no Ippo">
 </div>
