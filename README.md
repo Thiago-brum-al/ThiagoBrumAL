@@ -13,7 +13,7 @@ More than just writing code, I'm fascinated by the foundation that underpins sof
 <hr/>
 
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwindcss,react,redux,vite,next,git,postman,scss)
+## Current Stack 🚀 | Stack Atual 🚀
 
 
 <div align="center">
