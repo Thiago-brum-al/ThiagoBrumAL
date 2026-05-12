@@ -17,7 +17,9 @@ More than just writing code, I'm fascinated by the foundation that underpins sof
     <tr>
       <td align="center" valign="center">
         <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="My Skills" />
+        <br/>
         <img src="https://skillicons.dev/icons?i=tailwindcss,react,redux,vite" alt="My Skills" />
+        <br/>
         <img src="https://skillicons.dev/icons?i=next,git,postman,scss" alt="My Skills" />
       </td>
       <td align="center" valign="center">
