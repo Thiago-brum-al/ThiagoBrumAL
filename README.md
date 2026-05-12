@@ -18,5 +18,5 @@ More than just writing code, I'm fascinated by the foundation that underpins sof
 <hr/>
 
 
-<video src="(https://github.com/user-attachments/assets/a7736c91-9d68-4fbe-8794-289ee81020cf)" autoplay loop muted playsinline controls="false" width="100%">
+<video src="https://github.com/user-attachments/assets/a7736c91-9d68-4fbe-8794-289ee81020cf" autoplay loop muted playsinline controls="false" width="100%">
 </video>
