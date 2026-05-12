@@ -23,7 +23,7 @@ More than just writing code, I'm fascinated by the foundation that underpins sof
         <img src="https://skillicons.dev/icons?i=next,git,postman,scss" alt="My Skills" />
       </td>
       <td align="center" valign="center">
-        <img src="https://res.cloudinary.com/essencialdev-cloudinary/image/upload/v1778547472/ippo_wz2cee.gif" style="width: 100%; max-width: 230px" alt="Hajime no Ippo">
+        <img src="https://res.cloudinary.com/essencialdev-cloudinary/image/upload/v1778547472/ippo_wz2cee.gif" style="width: 100%; max-width: 200px" alt="Hajime no Ippo">
       </td>
     </tr>
   </table>
