@@ -9,7 +9,7 @@ Hello! I'm **Thiago de Almeida Brum**. With 3 years of experience in software de
 
 More than just writing code, I'm fascinated by the foundation that underpins software. My work goes beyond delivering functionality: I dedicate myself to designing and implementing solid architectures that balance performance, maintainability, and efficiency. I believe that good software is born from intelligent design and a well-thought-out structure.
 
----
+<hr/>
 
 ## Current Stack 🚀 | Stack Atual 🚀
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwindcss,react,redux,vite,next,git,postman)](https://skillicons.dev)
