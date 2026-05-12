@@ -19,7 +19,7 @@ More than just writing code, I'm fascinated by the foundation that underpins sof
 
 
 <div align="center">
-  <video src="https://drive.google.com/file/d/1VRTdGfCpX860aaZ-IPqzIK2ZhI3vLkRs/view?usp=sharing" 
+  <video src="https://github.com/user-attachments/assets/6a843343-2a6e-41a3-b930-095bae057e20" 
     autoplay 
     loop 
     muted 
