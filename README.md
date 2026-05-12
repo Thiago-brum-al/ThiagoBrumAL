@@ -12,9 +12,10 @@ More than just writing code, I'm fascinated by the foundation that underpins sof
 
 <hr/>
 
-## Current Stack 🚀 | Stack Atual 🚀
-
 <div align="center">
+
+## Current Stack 🚀 | Stack Atual 🚀
+  
   <table border="0">
     <tr>
       <td align="center" valign="center">
