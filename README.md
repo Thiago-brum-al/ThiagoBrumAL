@@ -17,14 +17,11 @@ More than just writing code, I'm fascinated by the foundation that underpins sof
 
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwindcss,react,redux,vite,next,git,postman,scss" alt="My Skills" />
-      </td>
-      <td align="center" valign="center">
-        <img src="https://res.cloudinary.com/essencialdev-cloudinary/image/upload/v1778547472/ippo_wz2cee.gif" width="300px" alt="Hajime no Ippo">
-      </td>
-    </tr>
-  </table>
+  <div style="display: inline-block; vertical-align: middle; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwindcss,react,redux,vite,next,git,postman,scss" alt="My Skills" />
+  </div>
+
+  <div style="display: inline-block; vertical-align: middle; margin: 10px;">
+    <img src="https://res.cloudinary.com/essencialdev-cloudinary/image/upload/v1778547472/ippo_wz2cee.gif" width="400px" alt="Hajime no Ippo">
+  </div>
 </div>
